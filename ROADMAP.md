@@ -6,7 +6,7 @@ Mode: 🟢 I watch (Claude shows) · 🟡 together · 🔵 I write, Claude revie
 ## Level 0 — Setup 🟢
 - [x] 0.1 What Playwright is, vs Cypress, what we'll build
 - [x] 0.2 git init, CLAUDE.md, ROADMAP.md
-- [ ] 0.3 (Optional) Node LTS explained
+- [x] 0.3 (Optional) Node LTS explained (nvm + Node 24, .nvmrc)
 
 ## Level 1 — TypeScript basics for tests 🟢
 - [ ] 1.1 Variables, types, functions, arrow functions
