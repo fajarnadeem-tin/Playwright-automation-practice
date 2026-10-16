@@ -9,7 +9,7 @@ Mode: 🟢 I watch (Claude shows) · 🟡 together · 🔵 I write, Claude revie
 - [x] 0.3 (Optional) Node LTS explained (nvm + Node 24, .nvmrc)
 
 ## Level 1 — TypeScript basics for tests 🟢
-- [ ] 1.1 Variables, types, functions, arrow functions
+- [x] 1.1 Variables, types, functions, arrow functions
 - [ ] 1.2 Objects, arrays, interfaces
 - [ ] 1.3 Promises and async/await (most important!)
 - [ ] 1.4 Modules: import / export
