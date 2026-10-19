@@ -57,7 +57,6 @@ console.log(`Full URL: ${baseUrl}/${page}`);
 //   test('user can log in', async ({ page }) => { ... });
 //                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^ arrow function!
 
-
 // Exercise 1: Create a const named password holding the text secret_sauce, with an explicit string type. Then print it with console.log.
 const password: string = 'secret_sauce';
 console.log(password);
