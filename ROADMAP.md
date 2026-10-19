@@ -1,6 +1,11 @@
 # Playwright Learning Roadmap
 
 Self-paced. No deadlines. Tick a step when it's done.
+
+> **Fast-track (2026-10-19):** the full framework was built in one go so there's a working
+> portfolio project (see README). The steps below are now for _understanding_ that code:
+> each step explains the matching file(s) instead of building from scratch. Resume at 1.2.
+
 Mode: 🟢 I watch (Claude shows) · 🟡 together · 🔵 I write, Claude reviews
 
 ## Level 0 — Setup 🟢
